@@ -115,8 +115,7 @@ placement_predictor/
 │
 ├── placement.ipynb           # Main Jupyter notebook with complete analysis
 ├── placement_data.csv        # Dataset (10,000 students)
-├── README.md                 # Project documentation
-└── requirements.txt          # Python dependencies
+└──  README.md                 # Project documentation
 ```
 
 📌 Project Highlights
