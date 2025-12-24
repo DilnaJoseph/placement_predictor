@@ -78,6 +78,7 @@ Comparison Table
 | Logistic Regression   | 80.85%   | 0.8837  | 79.67% ± 0.76%        |
 | Random Forest         | 79.95%   | 0.8812  | 79.55% ± 0.70%        |
 | Decision Tree         | 78.05%   | 0.8581  | 77.77% ± 1.06%        |
+
 Best Model: Logistic Regression with 80.85% accuracy
 
 🔍 Key Insights
@@ -119,9 +120,9 @@ placement_predictor/
 ```
 
 📌 Project Highlights
-    80.85% Accuracy - Exceeds 60% requirement
-    10,000 Students - Large, comprehensive dataset
-    3 ML Algorithms - Comparative analysis
-    Comprehensive EDA - 7+ visualizations
-    Actionable Insights - Clear recommendations
-    Production-Ready - Clean, documented code
+   -  80.85% Accuracy - Exceeds 60% requirement
+   -  10,000 Students - Large, comprehensive dataset
+   -  3 ML Algorithms - Comparative analysis
+   -  Comprehensive EDA - 7+ visualizations
+   -  Actionable Insights - Clear recommendations
+   -  Production-Ready - Clean, documented code
