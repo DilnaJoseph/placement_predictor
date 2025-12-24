@@ -1,4 +1,4 @@
-🎓Placement Predictor
+<p align="center"><b>🎓 Placement Predictor</b></p>
 A machine learning project that predicts student placement outcomes based on academic performance, skills, extracurricular activities, and aptitude scores. 
 This analysis helps students understand their placement probability and identify key factors that influence campus recruitment success.
 
@@ -110,14 +110,14 @@ Critical Success Factors:
     More projects → better outcomes
 
 📁 Project Structure
-`
+``
 placement_predictor/
 │
 ├── placement.ipynb           # Main Jupyter notebook with complete analysis
 ├── placement_data.csv        # Dataset (10,000 students)
 ├── README.md                 # Project documentation
 └── requirements.txt          # Python dependencies
-`
+``
 
 📌 Project Highlights
     80.85% Accuracy - Exceeds 60% requirement
